@@ -1,0 +1,8 @@
+token.properties
+target/
+/.idea/
+.classpath
+.project
+/.settings/
+/.smarttomcat/
+/.vscode/
